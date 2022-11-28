@@ -21,12 +21,12 @@ Streamlit makes it quite easy to convert our python code into production ready a
 
 # Let us see the basic idea and workflow of our app. The basic workflow of our app includes
 
-Receiving Text Input From User using streamlit st.text_area() and st.text_input() functions
+>Receiving Text Input From User using streamlit st.text_area() and st.text_input() functions.
 
-Summarizing our Received Text Using Gensim,Sumy and any other packages such as NLTK or SpaCy.
+>Summarizing our Received Text Using Gensim,Sumy and any other packages such as NLTK or SpaCy.
 
-Extracting Text From a Given URL using BeautifulSoup and Urllib or Request
+>Extracting Text From a Given URL using BeautifulSoup and Urllib or Request.
 
-Entity Recognition using Spacy
+>Entity Recognition using Spacy.
 
-Rendering our Extracted Named Entities using Displacy and Streamlit
+>Rendering our Extracted Named Entities using Displacy and Streamlit.
