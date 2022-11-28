@@ -1,5 +1,0 @@
-streamlit==1.14.0
-gensim==3.8.2
-sumy==0.11.0
-beautifulsoup4==4.11.1
-protobuf==3.20.1
