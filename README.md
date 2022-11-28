@@ -30,3 +30,7 @@ Streamlit makes it quite easy to convert our python code into production ready a
 >Entity Recognition using Spacy.
 
 >Rendering our Extracted Named Entities using Displacy and Streamlit.
+
+# You can checkout streamlit app here
+
+[Text_Summarizer Streamlitapp](https://dyanix-text-summarizer-app-93bpr7.streamlit.app/)
