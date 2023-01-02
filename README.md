@@ -31,4 +31,6 @@ Streamlit makes it quite easy to convert our python code into production ready a
 
 >Rendering our Extracted Named Entities using Displacy and Streamlit.
 
+<img width="1425" alt="Unknown" src="https://user-images.githubusercontent.com/85751639/210251212-9eeb92a9-e4dc-4de0-a276-01a989a3624a.png">
 
+<img width="1425" alt="Unknown-1" src="https://user-images.githubusercontent.com/85751639/210251226-3426d0a4-9165-48b4-b320-e444642d1aa2.png">
